@@ -2,7 +2,9 @@
 
 This File computes the nth term of the famous *Fibonacci* Series.
 
-Fibonacci Series is :- 0 1 1 2 3 5 8 13 . . .
+Fibonacci Series is :-
+
+0 1 1 2 3 5 8 13 . . .
 
 Here are two programs on this.
 
